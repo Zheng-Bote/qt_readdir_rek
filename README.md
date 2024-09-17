@@ -56,7 +56,7 @@
 # Description
 
 ![GHA](https://img.shields.io/badge/Github-Action-black?logo=githubactions)
-![Node](https://img.shields.io/badge/QT-6-blue?logo=qt)
+![Node](https://img.shields.io/badge/6-C++20-blue?logo=qt)
 
 QT6 CXX20 prep read dir recursive and some Github workflows and Github actions.
 

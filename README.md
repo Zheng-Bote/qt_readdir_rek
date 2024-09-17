@@ -112,7 +112,6 @@ bla bla ... with a little help from my friends
 ## folder structure
 
 <!-- readme-tree start -->
-
 ```
 .
 ├── .github
@@ -133,18 +132,13 @@ bla bla ... with a little help from my friends
 │       └── repo-create_tree_readme.yml
 ├── .gitignore
 ├── LICENSE
-├── LICENSE_Apache-2
-├── LICENSE_GPL-2
-├── LICENSE_GPL-3
-├── LICENSE_MIT
 ├── README.md
 ├── main.cpp
 ├── qt_readdir_rek.pro
 └── tree.bak
 
-5 directories, 21 files
+5 directories, 17 files
 ```
-
 <!-- readme-tree end -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>

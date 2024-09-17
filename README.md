@@ -14,10 +14,11 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 **Table of Contents**
 
 - [Description](#description)
-    - [Features](#features)
+  - [Features](#features)
   - [Status](#status)
     - [Repo](#repo)
     - [Readme](#readme)
@@ -111,6 +112,7 @@ bla bla ... with a little help from my friends
 ## folder structure
 
 <!-- readme-tree start -->
+
 ```
 .
 ├── .github
@@ -142,6 +144,7 @@ bla bla ... with a little help from my friends
 
 5 directories, 21 files
 ```
+
 <!-- readme-tree end -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -303,12 +306,6 @@ pie title me
 
 ## License
 
-**This Repo-Template is using the MIT-License**
-
-**_other licenses see files `LICENSE_<name>`\_**
-
-### MIT License
-
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 Copyright (c) 2024 ZHENG Robert
@@ -332,22 +329,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
         https://choosealicense.com/licenses/mit/
-
-### Apache License
-
-[![Apache License](https://img.shields.io/badge/License-Apache_v2.0-green.svg)](<[https://choosealicense.com/licenses/mit/](http://www.apache.org/licenses/LICENSE-2.0)>)
-
-Copyright (c) 2019 ZHENG Robert
-
-Licensed under the **Apache License, Version 2.0** (the "License"); you may not use this file except in compliance with the License.
-
-You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-
-See the License for the specific language governing permissions and limitations under the License.
 
 ## Authors
 
